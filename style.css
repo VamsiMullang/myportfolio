@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #373491;
+    /* height: 40vh; */
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    font-family: "Roboto";
+}
+
+
+.name-heading {
+    color: #36959e;
+    font-style: italic;
+}
+
+.about-details {
+    font-style: italic;
+}
+
+.personal-detail-title {
+    width: 130px;
+    float: left;
+    font-weight: 500;
+    padding-right: 10px;
+    position: relative;
+    display: block;
+}
+
+/* .personal-detail-title:after {
+  content: ":";
+  position: absolute;
+  right: 0;
+  top: 0;
+} */
+
+.personal-detail-info {
+    padding-left: 150px;
+    display: block;
+}
+
+.clg-heading {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.main-heading {
+    font-style: italic;
+}
+
+.technologies {
+    font-style: italic;
+}
+
+.project-heading {
+    font-weight: 600;
+}
+
+.card-style {
+    border-radius: 15px;
+}
+.img {
+    height: 200px;
+    width: 200px;
+    border-radius: 1000px;
+}
+.icon{
+    font-size: 30px;
+    color:white;
+    margin-right: 25px;
+}
+.i{
+    color: yellow;
+}
+.foot{
+    font-size: 20px;
+    color: white;
+}
